@@ -16,7 +16,7 @@ The project uses two datasets:
 Each file is approximately **51 MB**.
 
 Due to GitHub size limitations, the datasets are **not included** in this repository.  
-They can be obtained from publicly available fake news datasets (for example, Kaggle).
+They can be obtained from publicly available fake news datasets (Kaggle).
 
 ---
 
