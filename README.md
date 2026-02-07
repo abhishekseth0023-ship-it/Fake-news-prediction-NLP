@@ -54,7 +54,6 @@ Fake-news-prediction-NLP/
 │── .gitignore
 │── LICENSE
 
-
 ---
 
 ## 🚀 How to Run
